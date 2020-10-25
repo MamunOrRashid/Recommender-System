@@ -1,0 +1,14 @@
+Scalability:
+- Response time
+- Storage space
+
+Sparsity:
+- Reduced numberof predictions
+- Inferior quality
+
+Singular Value Decomposition;
+- Matrix factorization
+- Dimension reduction
+- Prediction generation by re-constructing matrix
+
+
